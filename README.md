@@ -50,7 +50,8 @@ becase if we look closely we see that there is no mood=login, its like this ip f
 
 <img width="1920" height="947" alt="Screenshot_2026-05-11_18_33_53unligtemite lo" src="https://github.com/user-attachments/assets/c6393a03-7586-4361-9a86-b05c15345281" />
 
-onther wired thing is that this ip POST to download database 
+onther wired thing is that this ip POST to download database at 11:54:22
+
 <img width="1920" height="947" alt="download database" src="https://github.com/user-attachments/assets/d4309fac-0964-43da-9313-c61156e3e4d3" />
 
 so lets keep that in POST_logs.text
@@ -61,22 +62,22 @@ now let look for GET request
 
 <img width="1920" height="947" alt="Screenshot_2026-05-11_19_06_23" src="https://github.com/user-attachments/assets/ea9fcd4b-f43c-4f3a-a80b-330e54321bd6" />
 
-here we see some wired things 
+if we scroll down to the button at the time where the downlaod in POST request happend we see the download of the database
 
+<img width="1920" height="947" alt="Screenshot_2026-05-12_04_44_42Backup" src="https://github.com/user-attachments/assets/830922f4-7268-4b38-814d-836009184f47" />
 
+at 1 in image we see the first vist of the /adm/index.php?i=acp_database and at 2 at time 12:01:38 we see the dwonload of the database and the size of the database 
 
+great so let is save this in GET_logs.text
 
+<img width="1920" height="947" alt="Screenshot_2026-05-12_04_58_53" src="https://github.com/user-attachments/assets/5d43486a-b18b-4fcd-bce0-9d8651fe2971" />
 
+now let collect some information from the database we have phpbb.sqlite3
+<img width="1920" height="912" alt="Screenshot_2026-05-12_05_04_23folder" src="https://github.com/user-attachments/assets/033736ca-db61-4857-ba73-1399ef78566a" />
 
+here we see some inmportent table like phpbb_config,phpbb_log..etc
 
+now let look to the qoutions
 
-
-
-
-
-
-
-
-
-
-
+<img width="527" height="826" alt="{F47E1A8B-71A4-4B96-99B5-739A85B24E97}" src="https://github.com/user-attachments/assets/90a075db-6fce-4250-bec5-773d4c677d1b" />
+i alread answers some of them :) 
